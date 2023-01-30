@@ -1,7 +1,7 @@
 # Sensor-Data-Parser
 
-## Programming Problem: 
-Implementation of functions to parse data from an arbitrary sensor. Tests the functions using randomly generated data.
+## Description: 
+Implementation of functions to parse data from an arbitrary sensor to target a programming problem. Tests the functions using randomly generated data.
 
 
 ## Functions:
