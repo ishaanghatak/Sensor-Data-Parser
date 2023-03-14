@@ -1,7 +1,7 @@
 # Sensor-Data-Parser
 
 ## Description: 
-Implementation of functions to parse data from an arbitrary sensor for a programming problem. Coducts testing using generated data.
+Implementation of functions used to parse data from an arbitrary sensor. Coducts tests using sample generated data.
 
 
 ## Functions:
